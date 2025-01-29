@@ -1,0 +1,5 @@
+﻿  Engine.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+D:\OneDrive\Desktop\praca domowa\Grafa2\Silnik3D\Silnik3D\Engine.cpp(72,18): warning C4566: znak przedstawiony przez nazwę zawierającą znaki uniwersalne "\u0142" nie może być przedstawiony w bieżącej stronie kodowej (1252)
+D:\OneDrive\Desktop\praca domowa\Grafa2\Silnik3D\Silnik3D\Engine.cpp(97,18): warning C4566: znak przedstawiony przez nazwę zawierającą znaki uniwersalne "\u0142" nie może być przedstawiony w bieżącej stronie kodowej (1252)
+  Silnik3D.vcxproj -> D:\OneDrive\Desktop\praca domowa\Grafa2\Silnik3D\x64\Debug\Silnik3D.exe
